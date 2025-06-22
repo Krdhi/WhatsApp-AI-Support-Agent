@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+__pycache__/
+
+# VS Code or PyCharm
+.vscode/
+.idea/
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
